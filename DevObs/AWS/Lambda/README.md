@@ -16,7 +16,7 @@
   * https://a8w2o14f94.execute-api.us-east-2.amazonaws.com/default/hello_lambda_python
 
 ## *AWS Lambda를 활용한 게시판 서버 API 만들기(진행중)*
-* 1. AWS Lambda 함수 구현
-* 2. API Gateway GET,POST 리소스 및 메서드 구현
-* 3. mongoDB 데이타베이스 활용
-* 4. ~
+* AWS Lambda 함수 구현
+* API Gateway GET,POST 리소스 및 메서드 구현
+* mongoDB 데이타베이스 활용
+* ~
