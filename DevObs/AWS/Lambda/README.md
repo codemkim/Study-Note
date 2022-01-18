@@ -7,11 +7,10 @@
 * 아마존 웹 서비스가 제공하는 별도의 플랫폼에서 손쉽게 서버를 구축해서 데이터를 저장하고, 처리하고, 출력할 수 있다는 장점이 있다.
 
 ## **2. 구성도**
-* 플레이어(클리아이언트) > API 게이트웨이 > AWS 람다 > DB
+* **플레이어(클리아이언트)** > **API 게이트웨이** > **AWS 람다** > **DB**
     > 클라이언트가 우리의 서버에 접속하면, 먼저 API 게이트웨이를 거치게 되고, 이후에 AWS 람다가 실제로 클라이언트의 요청을 처리하고 그결과를 반환
 
 ## **3. 기본 AWS Lambda 구현**
-* 함수 개요
-
-* API 엔드포인트<br>
+<img width="704" alt="323" src="https://user-images.githubusercontent.com/80312713/149885730-ff30387c-ec88-454b-a470-50599e1deedc.png"><br>
+* API 엔드포인트 <br>
   * https://a8w2o14f94.execute-api.us-east-2.amazonaws.com/default/hello_lambda_python
