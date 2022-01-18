@@ -14,3 +14,9 @@
 <img width="704" alt="323" src="https://user-images.githubusercontent.com/80312713/149885730-ff30387c-ec88-454b-a470-50599e1deedc.png"><br>
 * API 엔드포인트 <br>
   * https://a8w2o14f94.execute-api.us-east-2.amazonaws.com/default/hello_lambda_python
+
+## *AWS Lambda를 활용한 게시판 서버 API 만들기(진행중)*
+* 1. AWS Lambda 함수 구현
+* 2. API Gateway GET,POST 리소스 및 메서드 구현
+* 3. mongoDB 데이타베이스 활용
+* 4. ~
