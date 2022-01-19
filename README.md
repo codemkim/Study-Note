@@ -7,7 +7,7 @@
 ## Linux
 * [디렉토리란?](https://github.com/codemkim/Study-Note/blob/master/Linux/%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC/%E1%84%83%E1%85%B5%E1%84%85%E1%85%A6%E1%86%A8%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5.md)
 * [기본 명령어](https://github.com/codemkim/Study-Note/blob/master/Linux/%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4/%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5.md)
-* [vi 에디터 사용법]()
+* [vi 에디터 사용법](https://github.com/codemkim/Study-Note/blob/master/Linux/vi%20%EC%97%90%EB%94%94%ED%84%B0/README.md)
 <br>
 
 ## DevObs
