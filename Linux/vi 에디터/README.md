@@ -6,3 +6,8 @@
 
 ## **2. 단축키**
 ![242DBF47583A6FB106](https://user-images.githubusercontent.com/80312713/150083077-a7806bf5-64d4-451f-8671-5a94f23f40d0.jpeg)
+
+<br>
+
+## **3. vim 에디터 관련 사이트**
+* https://www.vim.org/
