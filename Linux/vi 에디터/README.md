@@ -6,6 +6,22 @@
 
 ## **2. 단축키**
 ![242DBF47583A6FB106](https://user-images.githubusercontent.com/80312713/150083077-a7806bf5-64d4-451f-8671-5a94f23f40d0.jpeg)
+* 자주쓰는 단축키
+  * command mode
+    * i 해당위치에서 입력
+    * o 한줄띄고 입력 
+  <br>
+  
+  * ex mode
+    * :e! 편집취소
+    * :w 저장
+    * :wq 저장하고 나가기
+    * :w <newfile> 새이름으로 저장
+    * :q vi 편집기 취소후 종료
+    * :q! 변경사항 취소후 종료
+    * :r <filename> 편집중인 파일에 다른파일을 끼워넣기
+    * :%s /찾을문자열/변경할문자열/g 찾아서 바꾸기 
+ 
 
 <br>
 
