@@ -11,3 +11,16 @@
 
 ## **3. vim 에디터 관련 사이트**
 * https://www.vim.org/
+
+<br>
+
+## **4. 그외**
+* mac에서 brew 설치하기
+  * 터미널에서 아래 명령어 입력 
+    * /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    * vi ~/.zshrc
+    * i 입력으로 인서트모드로 들어가기
+    * export PATH=/opt/homebrew/bin:$PATH 입력
+    * esc 입력으로 커맨드모드로 돌아가기
+    * :wq  입력으로 저장하고 나오기
+   
