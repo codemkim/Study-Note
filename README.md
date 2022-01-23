@@ -20,8 +20,8 @@
 
 <br>
 
+* [AWS](https://github.com/codemkim/Study-Note/tree/master/DevObs/AWS/)
 * Docker
 * Kubernetes
 * CI / CD
-* [AWS Lambda](https://github.com/codemkim/Study-Note/blob/master/DevObs/AWS/Lambda/README.md)
-* [AWS]()
+
