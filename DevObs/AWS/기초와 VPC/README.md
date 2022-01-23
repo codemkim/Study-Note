@@ -1,4 +1,4 @@
-# AWS 기초와 VPC
+# AWS 기초
 
 ## 1. AWS 주요 네트워킹 서비스
 * **AWS EC2(elastic)**
@@ -27,3 +27,11 @@
   * 가상 NoSQL 데이터베이스 서비스
 * **AWS ElastiCache**
   * in-memory 기반의 cache 서비스 ( 빠른 속도 필요로 하는 서비스와 연계 )
+
+## 3. AWS 주요 데이터 분석 & AI 서비스
+* **AWS Redshift**
+  * 데이터 분석에 특화된 스토리지 시스템
+* **AWS EMR**
+  * 대량의 데이터를 효율적으로 가공 & 처리
+* **AWS Sagemaker**
+  * 머신 러닝 & 데이터 분석을 위한 클라우드 환경 제공
