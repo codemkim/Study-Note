@@ -34,3 +34,5 @@
 * [TDD](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/TDD)
 * [WSGI](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/WSGI)
 * [ORM](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/ORM)
+* docker-wsgi-nginx 연결 실습 : http://13.125.130.244/ 
+> 관련내용 업데이트 
