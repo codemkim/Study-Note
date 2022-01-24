@@ -27,9 +27,9 @@
 <br>
 
 ## 기타
-* [REST API]()
-* [DBMS]()
-* [Socket]()
-* [Volume]()
-* [TDD]()
+* [REST API](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/Restapi)
+* [DBMS](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/DBMS)
+* [Socket](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/Socket)
+* [Volume](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/Volume)
+* [TDD](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/TDD)
 * [WSGI](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/WSGI)
