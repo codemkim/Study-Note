@@ -24,4 +24,12 @@
 * Docker
 * Kubernetes
 * CI / CD
+<br>
 
+## 기타
+* [REST API]()
+* [DBMS]()
+* [Socket]()
+* [Volume]()
+* [TDD]()
+* 
