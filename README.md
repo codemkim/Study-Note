@@ -13,7 +13,7 @@
 * [텍스트 파일 보기](https://github.com/codemkim/Study-Note/blob/master/Linux/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%8C%8C%EC%9D%BC%20%EC%B2%98%EB%A6%AC/README.md)
 <br>
 
-## DevObs
+
 <img width="757" alt="Screenshot at Jan 21 14-20-42" src="https://user-images.githubusercontent.com/80312713/150470597-d09ed349-167e-4014-8737-3f61cf239942.png"><br>
 
 > 패스트캠퍼스 백엔드 및 DevObs 개발에 관한 강의 수강 시작 ( 22/01/21~ )
