@@ -38,3 +38,4 @@
 * [WSGI](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/WSGI)
 * [ORM](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/ORM)
 * [Python](https://github.com/codemkim/Study-Note/blob/master/%EA%B8%B0%ED%83%80/Python/README.md)
+* [웹 서버가 느려질때 점검사항]()
