@@ -16,4 +16,8 @@
 * 전체 컨테이너 상태 확인
   * docker ps -a
 * 컨테이너 상세 정보 확인
-  * docker inspect [container]
+  * docker inspect ( container )
+* 컨테이너 일시 중지
+  * docker pause ( container )
+* 컨테이너 재게
+  * docker unpause ( container )
