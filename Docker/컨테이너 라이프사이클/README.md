@@ -21,3 +21,11 @@
   * docker pause ( container )
 * 컨테이너 재게
   * docker unpause ( container )
+* 컨테이너 종료 (sigterm 시그널 전달)
+  * docker stop ( container )
+* 컨테이너 강제 종료 (sigkill 시그널 전달)
+  * docker kill ( container )
+* 모든 컨테이너 종료
+  * docker stop $(docker ps -a -q)
+* 모든 컨테이너 삭제
+  * docker rm $(docker ps -a -q)
