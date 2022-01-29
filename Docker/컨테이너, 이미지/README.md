@@ -13,3 +13,11 @@
 
 ## 도커 이미지와 컨테이너 관계
 ![img](https://user-images.githubusercontent.com/80312713/151649435-5e942fa0-67b2-4b44-80e3-4f8d25742e83.png)
+> 이미지 vs 컨테이너<br>
+> 프로그램 vs 프로세스<br>
+> 클래스 vs 인스턴스
+
+## 도커 이미지 저장소
+* 도커 이미지를 관리하고 공유하기 위한 서버 어플리케이션
+  > dockerbub, quay 등 ( public ) <br>
+  > AWS ECR, dockerregistry 등 ( private )
