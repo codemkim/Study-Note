@@ -34,6 +34,7 @@ class EmailPersonSerializer(serializers.ModelSerializer):
 
 ## Serializer - view 연결
 ```python
+# test/view.py
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from .models import Person
