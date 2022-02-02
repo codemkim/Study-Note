@@ -6,3 +6,7 @@
 
 ## 커맨드(Command)
 * 도커 컨테이너가 실행할 때 수행할 명령어 혹은 엔트리포인트에 지정된 명령어에 대한 인자 값
+
+
+## 사용 예
+* docker run --entrypoint echo ubuntu:focal helloworld
