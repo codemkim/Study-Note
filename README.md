@@ -23,7 +23,7 @@
 * [AWS](https://github.com/codemkim/Study-Note/tree/master/DevObs/AWS/)
 * [Docker](https://github.com/codemkim/Study-Note/tree/master/Docker)
 * [Kubernetes](https://github.com/codemkim/Study-Note/blob/master/Kubernetes/%EA%B0%9C%EB%85%90.md)
-* [CI / CD]()
+* [CI / CD](https://github.com/codemkim/Study-Note/blob/master/Docker/CI-CD/%EA%B0%9C%EB%85%90.MD)
 <br>
 
 ## 기타
