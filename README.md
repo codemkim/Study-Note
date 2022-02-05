@@ -17,7 +17,8 @@
 ## DevObs/BE
 <img width="757" alt="Screenshot at Jan 21 14-20-42" src="https://user-images.githubusercontent.com/80312713/150470597-d09ed349-167e-4014-8737-3f61cf239942.png"><br>
 
-> 패스트캠퍼스 백엔드 및 DevObs 개발에 관한 강의 수강 시작 ( 22/01/21~ )
+> 패스트캠퍼스 백엔드 및 DevObs 개발에 관한 강의 수강 시작 ( 22/01/21~ )<br>
+> k8s, docker 관련 강의 학습중
 
 <br>
 
