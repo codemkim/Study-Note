@@ -29,7 +29,7 @@
 <br>
 
 ## 기타
-* [yaml 문법]()
+* [yaml 문법](https://github.com/codemkim/Study-Note/blob/master/%EA%B8%B0%ED%83%80/yaml.md)
 * [Serializers](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/Serializers)
 * [REST API](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/RestApi)
 * [DBMS](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/DBMS)
