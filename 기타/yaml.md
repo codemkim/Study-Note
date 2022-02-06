@@ -24,6 +24,11 @@
 > key와 value사이에는 반드시 빈칸이 필요함 ex) key: value
 * ### 문자열 따옴표
 > 대부분의 문자열을 따옴표 없이 사용할 수 있지만, : 가 들어간 경우는 반드시 따옴표 필요
+<br>
 
 ## 참고 사이트
-* 
+* ### [json2yaml](https://www.json2yaml.com/)
+> json > yaml 변환
+
+* ### [yamllint](http://www.yamllint.com/)
+> yaml 문법 체크 및 해석 결과 알림
