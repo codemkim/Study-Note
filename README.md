@@ -28,6 +28,16 @@
 * [CI / CD](https://github.com/codemkim/Study-Note/blob/master/Docker/CI-CD/%EA%B0%9C%EB%85%90.MD)
 <br>
 
+## 컴퓨터공학 학점은행제 진행(02.09~)
+* 데이터베이스
+* 디지털공학개론
+* 시스템프로그래밍
+* 인공지능
+* 전산개론
+* 정보통신개론
+* C언어 I
+<br>
+
 ## 기타
 * [Serializers](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/Serializers)
 * [REST API](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/RestApi)
