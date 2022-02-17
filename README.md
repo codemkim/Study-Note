@@ -12,6 +12,7 @@
 * [Wildcard](https://github.com/codemkim/Study-Note/blob/master/Linux/Wildcard/README.md)
 * [다중 명령어 처리](https://github.com/codemkim/Study-Note/blob/master/Linux/%EB%8B%A4%EC%A4%91%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%B2%98%EB%A6%AC/README.md)
 * [텍스트 파일 보기](https://github.com/codemkim/Study-Note/blob/master/Linux/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%8C%8C%EC%9D%BC%20%EC%B2%98%EB%A6%AC/README.md)
+* [Ubuntu 가상머신 설치]()
 <br>
 
 ## DevObs/BE
