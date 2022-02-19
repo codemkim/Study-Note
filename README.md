@@ -6,7 +6,7 @@
 <br>
 
 ## Django
-* [Celery]()
+* [Celery](https://github.com/codemkim/Study-Note/blob/master/Django/Celery.md)
 * 
 
 
