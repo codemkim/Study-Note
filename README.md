@@ -8,6 +8,7 @@
 ## Django
 * [Celery](https://github.com/codemkim/Study-Note/blob/master/Django/Celery.md)
 * [Channels]()
+* [실시간 채팅서비스]()
 
 
 ## Linux
