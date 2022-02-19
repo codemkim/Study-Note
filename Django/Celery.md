@@ -1,4 +1,7 @@
 
 # Celery
-> Celery는 Python 동시성 프로그래밍에서 가장 많이 사용하는 방법 중 하나이며<br>
-> 분산 메시지 전달을 기반으로 동작하는 비동기 작업 큐(Asynchronous Task/Job Queue)이다
+* `Celery`는 Python `동시성 프로그래밍`에서 가장 많이 사용하는 방법 중 하나이며  
+  분산 메시지 전달을 기반으로 동작하는 `비동기 작업 큐(Asynchronous Task/Job Queue)`이다
+* `Worker`라고도 칭하며, 웹 서비스에서 Back단의 작업을 처리하는 별도의 프레임이며, 사용자에게 즉각적인 반응을  
+  보여줄 필요가 없는 작업들로 인해 사용자가 느끼는 `Delay를 최소화` 하기 위해 사용된다.
+* 
