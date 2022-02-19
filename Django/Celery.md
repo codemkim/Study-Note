@@ -20,5 +20,11 @@
 
 # Celery 동작 구조 
 ![image](https://user-images.githubusercontent.com/80312713/154784454-93c2f246-c1c5-455f-9c8a-e5ca42ba5d0d.png)
+> 웹 서비스(Django)에서 발생한 요청(Task)를 `Message Broker`에서 받아 `Celery`를 이용하여 분산 처리하고  
+  작업이 완료되는 특정 이벤트에 DB Task를 수행  
 
+<br>
 
+## Message Broker?
+* `Message broker`는 송신자의 이전 메시지 프로토콜로부터의 메시지를 수신자의 이전 메시지 프로토콜로 변환하는 중간 모듈
+* `kafka`, `ActiveMQ`, `OpenMessage Queue`, `RabbitMQ`, `Redis` 등이 해당됨
