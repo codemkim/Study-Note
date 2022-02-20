@@ -16,4 +16,11 @@
 # Django의 CSRF 공격에 대한 방어
 * CSRF 공격을 방어하기 위한 다양한 방법이 있지만 Django에서는 기본적으로 csrf_token을 이용한다.
 * POST 요청에 대해서만 csrf_token을 발급하고 체크한다.  
-  * 동작과정
+
+## 동작과정
+  1. 사용자가 해당 페이지에 접속하면 Django에서 자동으로 csrf_token을 클라이언트로 보내어 cookie에 저장
+  2. 사용자가 form을 모두 입력한 후 제출버튼을 클릭한다.
+  3. form과 cookie의 csrf_token을 함께 POST로 전송한다.
+  4. 전송된 token의 유효성을 검증
+  5. 유효한 요청이면 요청을 처리  
+    but, token이 유효하지 않거나 검증 오류시에는 403 Forbidden Response 반환 
