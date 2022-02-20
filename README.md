@@ -9,6 +9,7 @@
 * [Celery](https://github.com/codemkim/Study-Note/blob/master/Django/Celery.md)
 * [Session](https://github.com/codemkim/Study-Note/blob/master/Django/Session.md)
 * [csrf_token](https://github.com/codemkim/Study-Note/blob/master/Django/csrf_token.md)
+* [User Model](https://github.com/codemkim/Study-Note/blob/master/Django/UserModel.md)
 * [실시간 채팅서비스, Channels 활용](https://github.com/codemkim/djangoChat/tree/master/mysite)
 * django 코드 분석, 흐름 파악 ( 진행중 )
 
