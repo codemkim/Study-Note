@@ -11,6 +11,7 @@
 * [csrf_token](https://github.com/codemkim/Study-Note/blob/master/Django/csrf_token.md)
 * [User Model](https://github.com/codemkim/Study-Note/blob/master/Django/UserModel.md)
 * [실시간 채팅서비스, Channels 활용](https://github.com/codemkim/djangoChat/tree/master/mysite)
+* [ForeignKey](https://github.com/codemkim/Study-Note/blob/master/Django/ForeignKey.md)
 * django 코드 분석, 흐름 파악 ( 진행중 )
 
 ## Linux
