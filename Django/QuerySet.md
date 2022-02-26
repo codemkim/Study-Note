@@ -29,10 +29,22 @@ Model.objects.order_by('-name', 'id')
 * [model].objects.aggregate()  
 : django의 집계함수 모듈(Avg, Max, Count, Sum 등)을 사용할 때 사용하는 메소드, 딕셔너리 타입으로 반환
 ```python
-# name 필드를 기준으로 내림차순 정렬, 두번째 기준은 id 필드
-Model.objects.order_by('-name', 'id')
-```
+from django.db.models import Max, Min, Avg, Sum
 
+# 특정 칼럼 값 모두 더하기
+Model.objects.aggregate(Sum('특정 칼럼'))
+
+# 특정 컬럼에서 가장 큰 값과 가장 작은 값의 차이
+Model.objects.aggregate(diff_kcal = Max('특정 컬럼') - Min('특정 컬럼')
+
+# 특정 컬럼 값들의 평균
+Model.objects.aggregate(avg_kcal = Avg('특정 컬럼')
+```
+* [model].objects.annotate()  
+: 각 컬럼별 주석을 달고 집계함수를 사용하여 QuerySet으로 반환, SQL의 group by과 같은 의미
+```python
+Model.objects.values('찾을컬럼__이름바꿀명').annotate(Sum('특정컬럼'))
+```
 
 * [model].objects.filter(). 
 : 특정 조건에 맞는 row만 조회하고 싶을 때 사용한다. QuerySet 타입으로 반환.
@@ -82,5 +94,13 @@ Model.objects.filter(Q(id__gt=6) & Q(name__contains = "현우"))
 # Q를 활용한 OR 조건
 Model.objects.filter(Q(id__gt=6) | Q(name__contains = "현우"))
 ```
+
+* chaining Methods  
+: 여러 메소드를 . 으로 연결해서 사용 가능
+* slicing  
+: 쿼리 셋 결과를 인덱스 slicing 하는 것처럼 할 수 있음
+
+
+# 2. insert
 
 
