@@ -21,6 +21,13 @@
   > value 변수값이 False이거나 없는 경우, "noting"으로 보여줌
 6. {{ value|lenght }}  
   > value 변수값의 길이 반환(str 이거나 list 인 경우도 가능)
-7. 
+7. {{ value|striptags }}  
+  > value 변수 값에서 HTML tag 없애줌
+8. {{ value|pluralize }}  
+  > 복수 접미사 필터, value 변수값이 1이 아니면 봇구 접미사 s 붙임
+9. {{ value|add:2 }}  
+  > 더하기 필터 
+
+# 템플릿 
 
 
