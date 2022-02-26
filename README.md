@@ -12,7 +12,7 @@
 * [User Model](https://github.com/codemkim/Study-Note/blob/master/Django/UserModel.md)
 * [실시간 채팅서비스, Channels 활용](https://github.com/codemkim/djangoChat/tree/master/mysite)
 * [ForeignKey](https://github.com/codemkim/Study-Note/blob/master/Django/ForeignKey.md)
-* [Template](https://github.com/codemkim/Study-Note/blob/master/Django/Template 문법.md)
+* [Template](https://github.com/codemkim/Study-Note/blob/master/Django/Template%20%EB%AC%B8%EB%B2%95.md)
 * [QuerySet](https://github.com/codemkim/Study-Note/blob/master/Django/QuerySet.md)
 
 ## Linux
