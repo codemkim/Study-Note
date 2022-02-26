@@ -51,7 +51,7 @@ Model.objects.values('찾을컬럼__이름바꿀명').annotate(Sum('특정컬럼
 * [model].objects.exclude()  
 : 특정 조건을 제외한 데이터만 조회하고 싶을 때 사용, QuerySet 타입으로 반환
 
-## + Lookup filter
+### + Lookup filter
 > filter(), exclude() 메소드에서 사용 가능한 내장 모듈로, 필드별 구체적인 값에 대한 비교를 가능하게 함  
 * (특정컬럼명)__contains  
 : 특정 문자가 포함된 것을 찾을 때 사용 ( 대소문자 구분 )
@@ -72,7 +72,7 @@ Model.objects.values('찾을컬럼__이름바꿀명').annotate(Sum('특정컬럼
 * (특정컬럼명)__year, __month, __day, __date  
 : date 타입의 필드에서 특정 년,월,일,날짜의 데이터를 찾을 때 
 
-## + AND / OR
+### + AND / OR
 > filter() 메소드 사용 시 두개 이상의 조건을 AND 또는 OR을 이용하여 표현할 수 있음
 
 * AND 조건 : 두 개 이상의 쿼리 셋을 ' & '로 연결
