@@ -32,3 +32,28 @@
 : 리스트 안에 지정한 문자열들 중에 하나라도 포함된 데이터를 찾을 대 사용 ( 단, 정확히 일치해야 됨 )
 * (특정컬럼명)__year, __month, __day, __date  
 : date 타입의 필드에서 특정 년,월,일,날짜의 데이터를 찾을 때 
+
+## + AND / OR
+> filter() 메소드 사용 시ㅡ 두개 이상의 조건을 AND 또는 OR을 이용하여 표현할 수 있음
+
+* AND 조건 : 두 개 이상의 쿼리 셋을 ' & '로 연결
+* OR 조건 : 두 개 이상의 쿼리 셋을 ' | '로 연결
+```python
+# AND 조건
+Model.objects.filter(id__gt=6) & Model.objects.filter(name__contains = "현우")
+
+# OR 조건
+Model.objects.filter(id__gt=6) | Model.objects.filter(name__contains = "현우")
+```
+* django의 Q 객체로도 표현 가능
+```python
+from django.db.models import Q
+
+# Q를 활용한 AND 조건
+Model.objects.filter(Q(id__gt=6) & Q(name__contains = "현우"))
+
+# Q를 활용한 OR 조건
+Model.objects.filter(Q(id__gt=6) | Q(name__contains = "현우"))
+```
+
+
