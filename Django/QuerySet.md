@@ -102,5 +102,13 @@ Model.objects.filter(Q(id__gt=6) | Q(name__contains = "현우"))
 
 
 # 2. insert
+* [model].objects.create(). 
+: 만들기 
+* [model].objects.bulk_create()
+: 여러개의 object를 한꺼번에 생성할 때 사용 
+* [model].objects.get_or_create()
+: 해당 테이블에 조건에 맞는 데이터가 존재하면 get을 해오고 없으면 create 
 
+# 3. update
+# 4. delete
 
