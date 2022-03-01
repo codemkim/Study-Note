@@ -5,8 +5,6 @@
 
 <br>
 
-## [Data Structures]()
-
 ## Django
 * [Celery](https://github.com/codemkim/Study-Note/blob/master/Django/Celery.md)
 * [Session](https://github.com/codemkim/Study-Note/blob/master/Django/Session.md)
@@ -52,6 +50,7 @@
 <br>
 
 ## 기타
+* [DataStructures]()
 * [Serializers](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/Serializers)
 * [REST API](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/RestApi)
 * [DBMS](https://github.com/codemkim/Study-Note/tree/master/%EA%B8%B0%ED%83%80/DBMS)
