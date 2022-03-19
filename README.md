@@ -6,7 +6,7 @@
 <br>
 
 ## JavaScript
-* [기본 문법 정리]()
+* [기본 문법 정리](https://github.com/codemkim/Study-Note/blob/master/JavaScript/%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95%EC%A0%95%EB%A6%AC.md)
 <br>
 
 
