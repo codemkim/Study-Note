@@ -4,6 +4,9 @@
 
 
 <br>
+## JavaScript
+* [기본 문법 정리]()
+
 
 ## Django
 * [Celery](https://github.com/codemkim/Study-Note/blob/master/Django/Celery.md)
